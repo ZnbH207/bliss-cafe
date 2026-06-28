@@ -55,25 +55,25 @@ http://localhost:5173
 
 ### Home Page
 
-(Add a screenshot here)
+![Home](screenshots/home.png)
 
 ### Menu Page
 
-(Add a screenshot here)
+![Menu](screenshots/menu.png)
 
 ### About Page
 
-(Add a screenshot here)
+![About](screenshots/about.png)
 
 ### Contact Page
 
-(Add a screenshot here)
+![Contact](screenshots/contact.png)
 
 ## Live Website
 
 Add your Vercel link here:
 
-https://your-vercel-link.vercel.app
+(https://bliss-cafe-six.vercel.app/)
 
 ## Author
 
