@@ -1,16 +1,80 @@
-# React + Vite
+# BLISS CAFE ☕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
 
-Currently, two official plugins are available:
+BLISS CAFE is a responsive café website developed using ReactJS. It allows users to browse the café menu, learn about the café, view contact information, and simulate placing an order. The website provides a clean, modern, and user-friendly interface that works well on both desktop and mobile devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Responsive design for desktop and mobile devices
+- Home page with welcome section and image gallery
+- Menu page with hot drinks, cold drinks, and desserts
+- Order Now popup notification
+- About Us page
+- Contact page with:
+  - Location
+  - WhatsApp
+  - Instagram
+  - Working hours
+  - Feedback form
+- Navigation bar
+- Reusable Header and Footer components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+- ReactJS
+- React Router DOM
+- CSS
+- HTML
+- JavaScript
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Setup Instructions
+
+1. Clone the repository
+
+git clone https://github.com/ZnbH207/bliss-cafe.git
+
+2. Open the project folder
+
+cd bliss-cafe
+
+3. Install dependencies
+
+npm install
+
+4. Start the development server
+
+npm run dev
+
+5. Open your browser and visit
+
+http://localhost:5173
+
+## Screenshots
+
+### Home Page
+
+(Add a screenshot here)
+
+### Menu Page
+
+(Add a screenshot here)
+
+### About Page
+
+(Add a screenshot here)
+
+### Contact Page
+
+(Add a screenshot here)
+
+## Live Website
+
+Add your Vercel link here:
+
+https://your-vercel-link.vercel.app
+
+## Author
+
+Zainab
