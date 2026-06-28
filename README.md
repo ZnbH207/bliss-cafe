@@ -71,8 +71,6 @@ http://localhost:5173
 
 ## Live Website
 
-Add your Vercel link here:
-
 (https://bliss-cafe-six.vercel.app/)
 
 ## Author
